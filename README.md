@@ -1,5 +1,5 @@
 - 👋 Hi, I’m William Pei Yuan
-- This is my NBCUniversal github account.
+- This is my NBCUniversal work account.
 
 <!---
 iamwillnbcu/iamwillnbcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
